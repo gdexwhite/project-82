@@ -1,0 +1,15 @@
+.body_background{
+    background-image: url("https://suhanibansal870.github.io/class83/bg1.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  
+  button{
+    background-color: green;
+    font-size: 15px;
+    border-radius: 5px;
+    color: white;
+  }
+ 
+  
+  
